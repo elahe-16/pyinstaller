@@ -1,4 +1,4 @@
-PyInstaller Overview
+Ppyinstaller /path/to/yourscript.pyyInstaller Overview
 ====================
 
 .. image:: https://img.shields.io/pypi/v/pyinstaller
